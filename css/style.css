@@ -1,7 +1,7 @@
 body{
   text-align: center;
   font-family:Open Sans,sans-serif;
-  background-color:#b581c2;
+  background-color:red;
   color:#ffffff;
   margin: 0;
 }
@@ -64,7 +64,7 @@ a{
 }
 
 .principal{
-  background-color: #ff6cB5;
+  background-color: #ff6cb5;
   height: 40px;
   max-width: 60%;
   margin:0 auto;
